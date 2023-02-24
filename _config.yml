@@ -81,8 +81,9 @@ content:
       - layout: top-middle
         #title: Certifications
         quote: Some of my certificacions are
-
-        description: |
+     
+     - layout: text
+        content: |
          -Diploma from the Jobs program in English, a 900-hour course by Proulex
          -English by Toefl
          -English by Pearson
@@ -106,9 +107,12 @@ content:
       - The universe
       - The sun
       
-
       One of my idols is Friedrich Nietzsche,I am very interested in the theories he proposes about the eternal return and in general the theories about the fact that life has no end. 
       Look at this beautiful image!
+      
+      
+      
+      
       ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Build settings
