@@ -80,20 +80,18 @@ content:
     content: 
       - layout: top-middle
         #title: Certifications
-        quote: Some of my certificacions are
-     
-     - layout: text
-        content: |
-         -Diploma from the Jobs program in English, a 900-hour course by Proulex
-         -English by Toefl
-         -English by Pearson
-         -Cyber Awareness Certificate
-         -Introduction to Cybersecurity by Cisco
-         -Cloud Core by IBM
-         -Data Science Foundations - Level 1 by IBM
-         -Data Science Methodologies by IBM
-         -Data Science for Business - Level 1 by IBM
-         -Docker Essentials: A Developer Introduction by IBM
+        quote: Some of my certificacions are:
+        
+         -<mark>Diploma from the Jobs program in English, a 900-hour course by Proulex</mark>
+         -<mark>English by Toefl</mark>
+         -<mark>English by Pearson</mark>
+         -<mark>Cyber Awareness Certificate</mark>
+         -<mark>Introduction to Cybersecurity by Cisco</mark>
+         -<mark>Cloud Core by IBM</mark>
+         -<mark>Data Science Foundations - Level 1 by IBM</mark>
+         -<mark>Data Science Methodologies by IBM</mark>
+         -<mark>Data Science for Business - Level 1 by IBM</mark>
+         -<mark>Docker Essentials: A Developer Introduction by IBM</mark>
 
 
 
