@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-Name: Isaias Damian Martinez Rivera
+name: Isaias Damian Martinez Rivera
 title: IT Engineer
 email: isaiaschichenol@gmail.com
 website: https://github.com/isaiasdamian
@@ -59,6 +59,13 @@ content:
           As a manager I was able to lead teams, deliver satisfactory results, work as a team and meet the needs of customers
         description: | # this will include new lines to allow paragraphs
             I was responsible for the correct operation of the store at night, which had a pleasant performance
+      - layout: left
+        title: Disc ITBusiness Solutions
+        link: https://www.hddisc.com.mx/
+        link_text: www.hddisc.com.mx
+        sub_title: IT Engineer
+        caption: November 2022 - I am currently working for this company
+
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -72,7 +79,7 @@ content:
     layout: list
     content: 
       - layout: top-middle
-        title: Certifications
+        #title: Certifications
         quote: Some of my certificacions are
 
         description:
@@ -81,9 +88,19 @@ content:
          -Certification of English in Pearson
          -Cyber Awareness Certificate
          -Introduction to Cybersecurity by Cisco
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Philosophy
+      - Gaming
+      - History
+      - The universe
+      - The sun
+      
 
-
-
+      One of my idols is Friedrich Nietzsche,  
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Build settings
 remote_theme: sproogen/resume-theme
