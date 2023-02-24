@@ -82,16 +82,24 @@ content:
         #title: Certifications
         quote: Some of my certificacions are
 
-        description:
-         -Diploma from the Jobs program in English, a 900-hour course from Proulex
-         -Certification of English in Toefl
-         -Certification of English in Pearson
+        description: |
+         -Diploma from the Jobs program in English, a 900-hour course by Proulex
+         -English by Toefl
+         -English by Pearson
          -Cyber Awareness Certificate
          -Introduction to Cybersecurity by Cisco
+         -Cloud Core by IBM
+         -Data Science Foundations - Level 1 by IBM
+         -Data Science Methodologies by IBM
+         -Data Science for Business - Level 1 by IBM
+         -Docker Essentials: A Developer Introduction by IBM
+
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
+      Alongside my interests in software engineering some of my other interests are:
       - Philosophy
       - Gaming
       - History
@@ -99,7 +107,8 @@ content:
       - The sun
       
 
-      One of my idols is Friedrich Nietzsche,  
+      One of my idols is Friedrich Nietzsche,I am very interested in the theories he proposes about the eternal return and in general the theories about the fact that life has no end. 
+      Look at this beautiful image!
       ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Build settings
