@@ -26,7 +26,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Active student of the University of Guadalajara with multiple knowledge in the area of Technology, capable of leading teams, communication skills, excellent collaboration and communication with work teams, experience with multiple work teams from multiple business sectors of the industry and 4 years of customer service experience.
   I am most skilled in: <mark>Privacy and data confidentialty</mark> , <mark>Cybersecurity</mark> and <mark>Self learning skills</mark>
-
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -65,9 +64,6 @@ content:
         link_text: www.hddisc.com.mx
         sub_title: IT Engineer
         caption: November 2022 - I am currently working for this company
-        quote: >
-          As an IT engineer, I have the responsibility of communicating with the client for possible incidents in their infrastructure, as well as coordinating with the whole team to provide the best solution for the client.
-High commitment with the client and the team, using agile methodologies.
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,10 +81,6 @@ High commitment with the client and the team, using agile methodologies.
         #title: Certifications
         quote: Some of my certificacions are
 
-        description:
-         -Diploma from the Jobs program in English, a 900-hour course from Proulex
-         -Certification of English in Toefl
-         -Certification of English in Pearson
         description: |
          -Diploma from the Jobs program in English, a 900-hour course by Proulex
          -English by Toefl
@@ -103,7 +95,6 @@ High commitment with the client and the team, using agile methodologies.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
       Alongside my interests in software engineering some of my other interests are:
       - Philosophy
       - Gaming
@@ -111,7 +102,6 @@ High commitment with the client and the team, using agile methodologies.
       - The universe
       - The sun
       
-      One of my idols is Friedrich Nietzsche,  
       One of my idols is Friedrich Nietzsche,I am very interested in the theories he proposes about the eternal return and in general the theories about the fact that life has no end. 
       Look at this beautiful image!
       ![Trees](/images/landscape-trees.jpg "Trees")
