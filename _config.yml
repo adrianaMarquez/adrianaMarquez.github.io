@@ -65,6 +65,9 @@ content:
         link_text: www.hddisc.com.mx
         sub_title: IT Engineer
         caption: November 2022 - I am currently working for this company
+        quote: >
+          As an IT engineer, I have the responsibility of communicating with the client for possible incidents in their infrastructure, as well as coordinating with the whole team to provide the best solution for the client.
+High commitment with the client and the team, using agile methodologies.
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,7 +84,7 @@ content:
       - layout: top-middle
         #title: Certifications
         quote: Some of my certificacions are:
-        
+        description: |
          -<mark>Diploma from the Jobs program in English, a 900-hour course by Proulex</mark>
          -<mark>English by Toefl</mark>
          -<mark>English by Pearson</mark>
