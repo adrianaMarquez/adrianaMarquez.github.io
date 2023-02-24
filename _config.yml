@@ -85,7 +85,7 @@ content:
         #title: Certifications
         quote: Some of my certificacions are
 
-        layout: text
+      - layout: text
         content: |
          -Diploma from the Jobs program in English, a 900-hour course by Proulex
          -English by Toefl
