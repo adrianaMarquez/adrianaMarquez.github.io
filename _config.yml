@@ -84,7 +84,8 @@ High commitment with the client and the team, using agile methodologies.
       - layout: top-middle
         #title: Certifications
         quote: Some of my certificacions are:
-        description: |
+        
+        content: |
          -<mark>Diploma from the Jobs program in English, a 900-hour course by Proulex</mark>
          -<mark>English by Toefl</mark>
          -<mark>English by Pearson</mark>
