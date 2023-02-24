@@ -1,15 +1,16 @@
 # Site
-repository: sproogen/resume-theme
+repository: isaiasdamian/isaiasdamian
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+Name: Isaias Damian Martinez Rivera
+title: IT Engineer
+email: isaiaschichenol@gmail.com
+website: https://github.com/isaiasdamian
+
 
 # Dark Mode (true/false/never)
 darkmode: false
