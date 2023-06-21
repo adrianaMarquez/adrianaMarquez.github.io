@@ -19,53 +19,89 @@ linkedin_username: adriana-márquez-190306191
 
 
 # About Section
-about_title: Professional resume
+about_title: Resumen profesional
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Active student of the University of Guadalajara with multiple knowledge in the area of Technology, capable of leading teams, communication skills, excellent collaboration and communication with work teams, experience with multiple work teams from multiple business sectors of the industry and 4 years of customer service experience.
-  I am most skilled in: <mark>Privacy and data confidentialty</mark> , <mark>Cybersecurity</mark> and <mark>Self learning skills</mark>
+  Licenciada titulada de la Universidad de Guadalajara, con conocimientos en las diferentes <mark>áreas de la abogacía (Laboral, administrativa, civil, familiar, penal)</mark>
+  capaz de liderar equipos, habilidades de efectivas de comunicación, capacidad de resolución de problemas de conflictos, capacidad de adaptación a las nuevas tecnologías,
+  formación continua, actualización de conocimientos día con día, excelente colaboración y comunicación con equipos de trabajo, 
+  experiencia con múltiples equipos de trabajo de múltiples sectores comerciales de la industria y 4 años de experiencia con servicio al cliente.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: University of Guadalajara
-        link: github.com/isaiasdamian
+        link: github.com/adrianaMarquez
         # link_text: Project Website
         additional_links:
-          - title:  isaiasdamian/isaiasdamian
+          - title:  adrianaMarquez/adrianaMarquez
             icon: fab fa-github
-            url: github.com/isaiasdamian/isaiasdamian
+            url: github.com/adrianaMarquez
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest achievements of my life..
+          .
         description: | # this will include new lines to allow paragraphs
-          Bachelor's Degree in Computer Science: Beginning January 2019, Currently in progress at: University Center for Exact Sciences and Engineering.
+          Este es uno de los mayores logros de mi vida. Titulo profesional de la Licenciatura de abogacía obtenido en Abril del 2023
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: FEMSA Company
+        title: Juzgado segundo de Distrito en Materias Administrativa, Civil y de Trabajo
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Storage Manager
-        caption: June 2018 - November 2022
+        sub_title: Oficial de mantenimiento
+        caption: Duración 6 MESES
         quote: >
-          As a manager I was able to lead teams, deliver satisfactory results, work as a team and meet the needs of customers
+          Nombramiento de oficial de mantenimiento en el Juzgado Segundo de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco
         description: | # this will include new lines to allow paragraphs
-            I was responsible for the correct operation of the store at night, which had a pleasant performance
+            Acomodar expedientes, en actuaria organizar la correspondencia, oficialía de partes organizar las promociones que presentaban los abogados, también ayudaba a acordar las promociones junto con los auxiliares de los secretarios del juzgado.
       - layout: left
-        title: Disc ITBusiness Solutions
-        link: https://www.hddisc.com.mx/
-        link_text: www.hddisc.com.mx
-        sub_title: IT Engineer
-        caption: November 2022 - I am currently working for this company
+        title: Juzgado Octavo Civil en el Estado de Jalisco
+        sub_title: Meritoria
+        caption: Duración 1 AÑO
         quote: >
-          High commitment with the client and the team, using agile methodologies.
+          Meritoria en el Juzgado Octavo Civil en el Estado de Jalisco
         description: | # this will include new lines to allow paragraphs
-            As an IT engineer, I have the responsibility of communicating with the client for possible incidents in their infrastructure, as well as coordinating with the whole team to provide the best solution for the client.        
+            Estuve en archivo prestando y acomodo de expedientes, acomodo de las promociones en los expedientes, con las notificadoras y acordando promociones con los auxiliares del juzgado   
+
+      - layout: left
+        title: Juzgado Tercero Familiar en el Estado de Jalisco, con sede en Zapopan
+        sub_title: Meritoria
+        caption: Duración 1 AÑO
+        quote: >
+          Meritoria en el Juzgado Tercero Familiar en el Estado de Jalisco, con sede en Zapopan.
+        description: | # this will include new lines to allow paragraphs
+            En archivo prestando, acomodo de expedientes y promociones que presentaban los abogados.         
+
+      - layout: left
+        title: Centro de Justicia para las Mujeres
+        sub_title: Meritoria
+        caption: Duración 3 MESES
+        quote: >
+          Meritoria en el Centro de Justicia para las Mujeres
+        description: | # this will include new lines to allow paragraphs
+            Laborando con una auxiliar del ministerio público en el área de Dignidad de las personas amenazas.         
+    
+      - layout: left
+        title: BBVA
+        sub_title: Cajera
+        caption: Duración 1 AÑO
+        quote: >
+          Cajera de BBVA en Chapultepec realizando actividades financieras
+        description: | # this will include new lines to allow paragraphs
+            Cajera de BBVA en Chapultepec realizando actividades financieras, conforme a lo solicitado por los clientes.        
+      - layout: left
+        title: Despacho laboral 
+        sub_title: Abogada
+        caption: Duración 1 AÑO
+        quote: >
+          Despacho laboral realizando actividades relacionadas con amparos desde su elaboración 
+        description: | # this will include new lines to allow paragraphs
+            Despacho laboral realizando actividades relacionadas con amparos desde su elaboración y presentación de este, transcripción de laudos, agendar citas referentes al proceso laboral, atención personalizada al cliente y a los abogados.        
+
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,44 +109,27 @@ content:
       - layout: top-middle
         title: Everyone has skills, but not everyone takes advantage of them.
         quote: >
-          This is probably one of the greatest achievements of my life.
+          Mis habilidades más destacables son:
         description: | # this will include new lines to allow paragraphs
-          <mark>Knowledge in Agile Software Development</mark> , <mark>Best practices in computer security</mark> , <mark>Management of different Software and Hardware</mark> , <mark>Responsible leadership</mark> and <mark>Proactive</mark> .
-  - title: Certifications
+          <mark>Proactiva</mark> , <mark>Liderazgo responsable</mark> , <mark>Comunicación efectiva</mark> , <mark>Sumamente responsable/mark> , <mark>Confidencial</mark>  , <mark>Excelente nivel de ortografía</mark> ,
+           <mark>Precaución con los detalles</mark> ,  <mark>Minimalista</mark> ,  <mark>Eficiente</mark> ,  <mark>Audaz</mark> , <mark>Manejo de la paquetería Office</mark> ,  <mark>Adaptabilidad al entorno</mark> ,  
+           <mark>Honesta</mark> ,  <mark>Con optimas practicas en la seguridad informática</mark>.
+  - title: Certificaciones
     layout: list
     content: 
       - layout: top-middle
         #title: Certifications
-        quote: Some of my certificacions are
+        quote: Algunos de mis certificados son:
         description: |
          -Diploma from the Jobs program in English, a 900-hour course by Proulex
-         -English by Toefl
-         -English by Pearson
-         -Cyber Awareness Certificate
-         -Introduction to Cybersecurity by Cisco
-         -Cloud Core by IBM
-         -Data Science Foundations - Level 1 by IBM
-         -Data Science Methodologies by IBM
-         -Data Science for Business - Level 1 by IBM
-         -Docker Essentials: A Developer Introduction by IBM
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests are:
-      - Philosophy
-      - Gaming
-      - History
-      - The universe
-      - The sun
-      
-      One of my idols is Friedrich Nietzsche,I am very interested in the theories he proposes about the eternal return and in general the theories about the fact that life has no end. 
-      Look at this beautiful image!
-      
-      
-      
-      
-      
-      ![Trees](/images/landscape-trees.jpg "Trees")
+         •	Constancia: en el apoyo logístico, en la conferencia titulada “EL SISTEMA NACIONAL ANTICORRUPCION PARA SERVIDORES PUBLICOS FEDERALES Y ESTATALES” 
+         •	Constancia: en el apoyo logístico, en la conferencia titulada “EL FEDERALISMO ADMINISTRATIVO EN MEXICO”   
+         •	Constancia: por participación en el proyecto de “SEGURIDAD CIUDADANA”
+         •	Constancia: por participación en el “1ER. CONGRESO DE RESPONSABILIDAD MEDICA UTEG”
+         •	Constancia: por participación en las Jornadas Académicas, Jurídicas denominadas “AMPARO Y DERECHOS HUMANOS”
+         •	Constancia: por participación en el programa “CONOCE TU CONGRESO”
+         •	Certificado: por participación del “COMITÉ ORGANIZADO DEL IV FORO ANALITICO Y PROPOSITIVO ACERCA DE LA JUSTICIA EN MEXICO
+
 # Build settings
 remote_theme: sproogen/resume-theme
 
