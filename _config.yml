@@ -119,16 +119,16 @@ content:
     content: 
       - layout: top-middle
         #title: Certifications
-        quote: Algunos de mis certificados son:
+        quote: Algunos de mis certificados son
         description: |
          -Diploma from the Jobs program in English, a 900-hour course by Proulex
-         •	Constancia: en el apoyo logístico, en la conferencia titulada “EL SISTEMA NACIONAL ANTICORRUPCION PARA SERVIDORES PUBLICOS FEDERALES Y ESTATALES” 
-         •	Constancia: en el apoyo logístico, en la conferencia titulada “EL FEDERALISMO ADMINISTRATIVO EN MEXICO”   
-         •	Constancia: por participación en el proyecto de “SEGURIDAD CIUDADANA”
-         •	Constancia: por participación en el “1ER. CONGRESO DE RESPONSABILIDAD MEDICA UTEG”
-         •	Constancia: por participación en las Jornadas Académicas, Jurídicas denominadas “AMPARO Y DERECHOS HUMANOS”
-         •	Constancia: por participación en el programa “CONOCE TU CONGRESO”
-         •	Certificado: por participación del “COMITÉ ORGANIZADO DEL IV FORO ANALITICO Y PROPOSITIVO ACERCA DE LA JUSTICIA EN MEXICO
+         -Constancia: en el apoyo logístico, en la conferencia titulada “EL SISTEMA NACIONAL ANTICORRUPCION PARA SERVIDORES PUBLICOS FEDERALES Y ESTATALES” 
+         -Constancia: en el apoyo logístico, en la conferencia titulada “EL FEDERALISMO ADMINISTRATIVO EN MEXICO”   
+         -Constancia: por participación en el proyecto de “SEGURIDAD CIUDADANA”
+         -Constancia: por participación en el “1ER. CONGRESO DE RESPONSABILIDAD MEDICA UTEG”
+         -Constancia: por participación en las Jornadas Académicas, Jurídicas denominadas “AMPARO Y DERECHOS HUMANOS”
+         -Constancia: por participación en el programa “CONOCE TU CONGRESO”
+         -Certificado: por participación del “COMITÉ ORGANIZADO DEL IV FORO ANALITICO Y PROPOSITIVO ACERCA DE LA JUSTICIA EN MEXICO
 
 # Build settings
 remote_theme: sproogen/resume-theme
