@@ -49,16 +49,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Juzgado segundo de Distrito en Materias Administrativa, Civil y de Trabajo
-        #link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Oficial de mantenimiento
-        caption: Duración 6 MESES
-        quote: >
-          Nombramiento de oficial de mantenimiento en el Juzgado Segundo de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco
-        description: | # this will include new lines to allow paragraphs
-            Acomodar expedientes, en actuaria organizar la correspondencia, oficialía de partes organizar las promociones que presentaban los abogados, también ayudaba a acordar las promociones junto con los auxiliares de los secretarios del juzgado.
-      - layout: left
         title: Juzgado Octavo Civil en el Estado de Jalisco
         sub_title: Meritoria
         caption: Duración 1 AÑO
